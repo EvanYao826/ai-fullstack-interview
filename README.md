@@ -4,6 +4,10 @@ AI 全栈工程师面试知识库。
 
 整理 AI 应用开发岗位常见面试问题、技术知识和项目经验，帮助开发者准备 AI 全栈、LLM 应用、Agent 工程相关岗位。
 
+> 💡 **推荐直接浏览 [HTML 版本](ai-interview-questions.html)，支持答案展开收起、技术分类筛选，阅读体验更直观更方便。**
+>
+> Markdown 版见 [interview-questions.md](interview-questions.md)，适合在 GitHub 中快速浏览。
+
 ## 📌 数据来源
 
 初始面试题来源于：
