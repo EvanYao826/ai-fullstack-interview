@@ -104,7 +104,11 @@
     }
 
     /* === Intro === */
-    .report-intro { margin-bottom: var(--space-7); }
+    .report-intro {
+      width: calc(100% - 2rem);
+      max-width: var(--max);
+      margin: 0 auto var(--space-7);
+    }
     .report-intro__surface {
       position: relative;
       isolation: isolate;
